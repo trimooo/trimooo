@@ -2,7 +2,7 @@
 - 👀 I’m interested in for FRONT-END and BACK-END DEVELOPER
 - 🌱 I’m currently learning FRONT-END DEVELOPER
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me leotrimthaqi09@gmail.com
+- 📫 How to reach me leo@devleo.de
 
 <!---
 trimooo/trimooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
